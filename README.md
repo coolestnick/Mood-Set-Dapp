@@ -5,7 +5,7 @@ Wrote a smart contract on Remix IDE and then connected it with injected metamask
 
 Copied the deployed address of the goerli test network "0x52f2ab7fec6a861C8983E286fA5B87e2f521Ff46" in the Mood_Set.html file.
 
-Then I copied the ABI (Application Binary Interface) to the html file => 
+Then copied the ABI (Application Binary Interface) in the html file => 
 
 * For setMood, we describe each field below:
 
